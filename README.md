@@ -21,7 +21,7 @@ To run this Clock App locally or contribute to its development, follow these ste
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/clock-app.git
+   git clone https://github.com/RonakWithCode/Clock-App.git
 2. Open the project directory:
    ```bash
    cd clock-app
